@@ -1,4 +1,4 @@
-# 🎨 다꾸메이커 (Dakkumeikeo)
+# 🎨 다꾸메이커
 
 <p align="center">
   <img src="assets/hero.png" width="800" alt="Dakkumeikeo Hero">
