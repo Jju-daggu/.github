@@ -93,13 +93,10 @@ npm run dev
 ```
 
 ---
+Type: Subject (제목)
 
-## 🤝 기여하기 (Contributing)
+Body (본문 - 선택 사항)
 
-이 프로젝트에 기여하고 싶으시다면 [CONTRIBUTING.md](CONTRIBUTING.md) 파일을 참고해 주세요.
-
-## 📜 라이선스 (License)
-이 프로젝트는 **MIT License**를 따릅니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참고하세요.
-
+Footer (바닥글 - 선택 사항)
 ---
-© 2026 Jju-daggu Team. Built with ❤️ and Artificial Intelligence.
+
